@@ -14,7 +14,11 @@ Each user is able to select the time of the day and the app will automatically g
 ## Features
 
 - EditText (Time Of The Day)
-- Suggested Meals Options 
+- Suggested Meals Options
+
+##Screenshot
+
+![Image](https://github.com/user-attachments/assets/221f79f9-3110-49d1-8c88-f734771aff6b)
 
 
 
