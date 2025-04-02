@@ -3,9 +3,10 @@
 
 App Description 
 
-The app “ Daily Meals” is meant for people who are always on the go and people who are indicisive when it comes to food. 
+The app “Daily Meals” is meant for people who are always on the go and people who are indecisive when it comes to food. 
 This gives people an advantage to be able to have a consistent meal habit throughout their days.
-Each user is able to select the time of the day and the app will automatically generate a daily meal suggestion for that particuler time of the day.
+Each user can select the time of the day and the app will automatically generate a daily meal suggestion for that particuler time of the day.
+ 
 
 
 
